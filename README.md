@@ -1,2 +1,2 @@
 # wedding-invitation
-Undangan Pernikahan Digitak
+Undangan Pernikahan Digital
